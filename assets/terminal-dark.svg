@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 350" width="840" height="350" role="img" aria-label="terminal: whoami, stack, projects, motto">
-<title>terminal: whoami, stack, projects, motto</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 350" width="840" height="350" role="img" aria-label="terminal: whoami, stack, work, motto">
+<title>terminal: whoami, stack, work, motto</title>
 <style>
 
 text{font:14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#e6edf3;white-space:pre}
@@ -18,22 +18,22 @@ text{font:14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#e6
 <circle cx="26" cy="22" r="6" fill="#ff5f56"/><circle cx="46" cy="22" r="6" fill="#ffbd2e"/><circle cx="66" cy="22" r="6" fill="#27c93f"/>
 <text class="ti" x="420" y="27" text-anchor="middle">st@github: ~</text>
 <text xml:space="preserve" x="24" y="80"><tspan fill="#ff7a59">$</tspan> whoami</text>
-<text xml:space="preserve" x="24" y="106">st — data engineer by day, motion &amp; game tinkerer by night</text>
+<text xml:space="preserve" x="24" y="106">st — data &amp; analytics engineer. finance data by day, full-stack tools by night</text>
 <text xml:space="preserve" x="24" y="140"><tspan fill="#ff7a59">$</tspan> cat stack.txt</text>
-<text xml:space="preserve" x="24" y="166">SQL · Python · TypeScript · Three.js · SVG · ffmpeg</text>
-<text xml:space="preserve" x="24" y="200"><tspan fill="#ff7a59">$</tspan> ls projects/</text>
-<text xml:space="preserve" x="24" y="226">home-pwa/  motion-studio/  game-studio/  packaging-sim/  de-handbook/</text>
+<text xml:space="preserve" x="24" y="166">SQL · Spark · Python · TypeScript · React · Postgres · Power BI</text>
+<text xml:space="preserve" x="24" y="200"><tspan fill="#ff7a59">$</tspan> ls ~/work</text>
+<text xml:space="preserve" x="24" y="226">st-km/  homie/  opex-forge/  control-room/  packaging-sim/</text>
 <text xml:space="preserve" x="24" y="260"><tspan fill="#ff7a59">$</tspan> echo $MOTTO</text>
 <text xml:space="preserve" x="24" y="286">relax, you're doing fine</text>
 <rect class="cv" x="24" y="63" width="800" height="24" fill="#161b22" style="--w:76px;--n:8;--d:0.48s;--t:0.50s"/>
-<rect class="cv" x="24" y="89" width="800" height="24" fill="#161b22" style="--w:496px;--n:58;--d:0.81s;--t:1.23s"/>
-<rect class="cv" x="24" y="123" width="800" height="24" fill="#161b22" style="--w:134px;--n:15;--d:0.9s;--t:2.39s"/>
-<rect class="cv" x="24" y="149" width="800" height="24" fill="#161b22" style="--w:437px;--n:51;--d:0.71s;--t:3.54s"/>
-<rect class="cv" x="24" y="183" width="800" height="24" fill="#161b22" style="--w:126px;--n:14;--d:0.84s;--t:4.60s"/>
-<rect class="cv" x="24" y="209" width="800" height="24" fill="#161b22" style="--w:588px;--n:69;--d:0.97s;--t:5.69s"/>
-<rect class="cv" x="24" y="243" width="800" height="24" fill="#161b22" style="--w:118px;--n:13;--d:0.78s;--t:7.01s"/>
-<rect class="cv" x="24" y="269" width="800" height="24" fill="#161b22" style="--w:210px;--n:24;--d:0.34s;--t:8.04s"/>
-<g class="cur" style="--t:8.73s"><text x="24" y="320" fill="#ff7a59" style="fill:#ff7a59">$</text>
+<rect class="cv" x="24" y="89" width="800" height="24" fill="#161b22" style="--w:664px;--n:78;--d:1.09s;--t:1.23s"/>
+<rect class="cv" x="24" y="123" width="800" height="24" fill="#161b22" style="--w:134px;--n:15;--d:0.9s;--t:2.67s"/>
+<rect class="cv" x="24" y="149" width="800" height="24" fill="#161b22" style="--w:538px;--n:63;--d:0.88s;--t:3.82s"/>
+<rect class="cv" x="24" y="183" width="800" height="24" fill="#161b22" style="--w:101px;--n:11;--d:0.66s;--t:5.05s"/>
+<rect class="cv" x="24" y="209" width="800" height="24" fill="#161b22" style="--w:496px;--n:58;--d:0.81s;--t:5.96s"/>
+<rect class="cv" x="24" y="243" width="800" height="24" fill="#161b22" style="--w:118px;--n:13;--d:0.78s;--t:7.12s"/>
+<rect class="cv" x="24" y="269" width="800" height="24" fill="#161b22" style="--w:210px;--n:24;--d:0.34s;--t:8.15s"/>
+<g class="cur" style="--t:8.84s"><text x="24" y="320" fill="#ff7a59" style="fill:#ff7a59">$</text>
 <rect class="blink" x="42" y="306" width="8" height="18" fill="#ff7a59"/></g>
 <rect x=".5" y=".5" width="839" height="349" rx="11.5" fill="none" stroke="#30363d"/>
 </svg>

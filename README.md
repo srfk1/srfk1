@@ -1,16 +1,21 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="st — data engineer, motion and game tinkerer" width="100%">
+  <img src="assets/banner-light.svg" alt="st — data and analytics engineer, builds the tools too" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img src="assets/terminal-light.svg" alt="terminal: whoami, stack, projects, motto" width="100%">
+  <img src="assets/terminal-light.svg" alt="terminal: whoami, stack, work, motto" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
+  <img src="assets/work-light.svg" alt="main quests: featured work" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/rpg-dark.svg">
-  <img src="assets/rpg-light.svg" alt="character sheet: stats, quests, achievements" width="100%">
+  <img src="assets/rpg-light.svg" alt="character sheet: stats, toolbelt, achievements" width="100%">
 </picture>
 
 <picture>
