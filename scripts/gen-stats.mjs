@@ -13,10 +13,11 @@ const repos = gh('user/repos?affiliation=owner&per_page=100', '--paginate',
   '--jq', '.[] | select(.fork == false) | select(.owner.login == "' + LOGIN + '") | .full_name')
   .split('\n').filter(Boolean);
 
+const MARKUP = new Set(['HTML', 'CSS', 'SCSS', 'Less']); // page markup drowns out real code
 const bytes = {};
 for (const r of repos) {
   const langs = JSON.parse(gh(`repos/${r}/languages`));
-  for (const [k, v] of Object.entries(langs)) bytes[k] = (bytes[k] || 0) + v;
+  for (const [k, v] of Object.entries(langs)) if (!MARKUP.has(k)) bytes[k] = (bytes[k] || 0) + v;
 }
 const total = Object.values(bytes).reduce((a, b) => a + b, 0) || 1;
 const all = Object.entries(bytes).sort((a, b) => b[1] - a[1]);
