@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 190" width="840" height="190" role="img" aria-label="Languages: HTML, TypeScript, JavaScript, Python, Shell, PLpgSQL">
+<title>Languages: HTML, TypeScript, JavaScript, Python, Shell, PLpgSQL</title>
+<style>
+
+.n{font:14px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#1f2328}
+.m{font:13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#656d76}
+.l{font:600 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#656d76;letter-spacing:2px}
+.bar{transform-box:fill-box;transform-origin:left center;animation:grow 1.2s cubic-bezier(.2,.7,.2,1) both}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect width="840" height="190" rx="12" fill="#f6f8fa"/>
+<defs><clipPath id="bc"><rect x="32" y="52" width="776" height="14" rx="7"/></clipPath></defs>
+<text class="l" x="32" y="36">LANGUAGES</text>
+<rect x="32" y="52" width="776" height="14" rx="7" fill="#e3e8ee"/>
+<g clip-path="url(#bc)"><g class="bar"><rect x="32.00" y="52" width="550.24" height="14" fill="#ff7a59"/><rect x="582.24" y="52" width="90.25" height="14" fill="#2bb3a3"/><rect x="672.50" y="52" width="46.73" height="14" fill="#e8b04a"/><rect x="719.23" y="52" width="37.49" height="14" fill="#6e9ef5"/><rect x="756.71" y="52" width="28.36" height="14" fill="#b48ef0"/><rect x="785.07" y="52" width="12.46" height="14" fill="#9aa4b2"/></g></g>
+<circle cx="37" cy="100" r="5" fill="#ff7a59"/><text class="n" x="50" y="104">HTML</text><text class="m" x="200" y="104">70.9%</text><circle cx="297" cy="100" r="5" fill="#2bb3a3"/><text class="n" x="310" y="104">TypeScript</text><text class="m" x="460" y="104">11.6%</text><circle cx="557" cy="100" r="5" fill="#e8b04a"/><text class="n" x="570" y="104">JavaScript</text><text class="m" x="720" y="104">6.0%</text><circle cx="37" cy="128" r="5" fill="#6e9ef5"/><text class="n" x="50" y="132">Python</text><text class="m" x="200" y="132">4.8%</text><circle cx="297" cy="128" r="5" fill="#b48ef0"/><text class="n" x="310" y="132">Shell</text><text class="m" x="460" y="132">3.7%</text><circle cx="557" cy="128" r="5" fill="#9aa4b2"/><text class="n" x="570" y="132">PLpgSQL</text><text class="m" x="720" y="132">1.6%</text>
+<text class="m" x="32" y="170">22 repositories · 14 languages</text>
+<rect x=".5" y=".5" width="839" height="189" rx="11.5" fill="none" stroke="#d0d7de"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 300" width="840" height="300" role="img" aria-label="relax, you're doing fine.">
+<title>relax, you're doing fine.</title>
+<style>
+
+.z{font:400 32px Georgia, 'Times New Roman', serif;fill:#e6edf3;animation:fade 3.2s ease-in-out .3s both}
+.n{font:400 15px Georgia, 'Times New Roman', serif;fill:#8b949e;font-style:italic;animation:fade 3s ease-in-out 2.2s both}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect width="840" height="300" rx="12" fill="#0d1117"/>
+<text class="z" x="420" y="148" text-anchor="middle">relax, you're doing fine.</text>
+<text class="n" x="420" y="190" text-anchor="middle">— st</text>
+<rect x=".5" y=".5" width="839" height="299" rx="11.5" fill="none" stroke="#30363d"/>
+</svg>

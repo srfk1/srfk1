@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 290" width="840" height="290" role="img" aria-label="st — data engineer, motion and game tinkerer">
+<title>st — data engineer, motion and game tinkerer</title>
+<style>
+
+.d{stroke-dasharray:1 1;stroke-dashoffset:0;fill:none;stroke-linecap:round;stroke-linejoin:round;animation:draw 1s cubic-bezier(.5,0,.3,1) both}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+.tag{font:400 21px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#8b949e;letter-spacing:.5px;animation:fade .7s ease-out 2.3s both}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect width="840" height="290" rx="12" fill="#0d1117"/>
+
+<path class="d" pathLength="1" stroke="#ff7a59" stroke-width="10" style="animation-duration:1.1s;animation-delay:.1s"
+ d="M410 102C396 84 348 82 346 112C344 140 410 134 411 160C412 190 360 192 343 170"/>
+<path class="d" pathLength="1" stroke="#2bb3a3" stroke-width="10" style="animation-duration:.8s;animation-delay:1.1s"
+ d="M470 50C468 98 465 138 472 164C476 177 490 179 501 169"/>
+<path class="d" pathLength="1" stroke="#2bb3a3" stroke-width="10" style="animation-duration:.4s;animation-delay:1.8s"
+ d="M444 96C464 92 486 94 504 90"/>
+<path class="d" pathLength="1" stroke="#8b949e" stroke-width="3" style="animation-duration:.5s;animation-delay:1.9s"
+ d="M330 204C362 196 382 212 420 203S482 197 512 205"/>
+<text class="tag" x="420" y="250" text-anchor="middle">data engineer · motion &amp; game tinkerer</text>
+<rect x=".5" y=".5" width="839" height="289" rx="11.5" fill="none" stroke="#30363d"/>
+</svg>

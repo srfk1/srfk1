@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 486" width="840" height="486" role="img" aria-label="RPG character sheet: stats, quests, achievements">
+<title>RPG character sheet: stats, quests, achievements</title>
+<style>
+
+.h{font:700 24px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#e6edf3}
+.s{font:14px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#e6edf3}
+.l{font:600 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#8b949e;letter-spacing:2px}
+.v{font:13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#8b949e}
+.bar{transform-box:fill-box;transform-origin:left center;animation:grow 1.2s cubic-bezier(.2,.7,.2,1) both}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.q{animation:slide .5s ease-out both}
+@keyframes slide{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+.b{transform-box:fill-box;transform-origin:center;animation:pop .45s cubic-bezier(.3,1.5,.5,1) both}
+@keyframes pop{from{opacity:0;transform:scale(.85)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect width="840" height="486" rx="12" fill="#161b22"/>
+<defs><linearGradient id="chill" x1="0" x2="1"><stop offset="0" stop-color="#2bb3a3"/><stop offset="1" stop-color="#7fe0d2"/></linearGradient></defs>
+<text class="h" x="32" y="48">st<tspan fill="#ff7a59"> · Lv. 2026</tspan></text>
+<text class="s" x="32" y="74" style="fill:#8b949e">Class  <tspan style="fill:#2bb3a3" font-weight="600">Data Engineer / Motion Tinkerer</tspan></text>
+<line x1="32" y1="94" x2="808" y2="94" stroke="#30363d"/>
+<text class="l" x="32" y="124">STATS</text><text class="l" x="460" y="124">QUESTS</text>
+<line x1="436" y1="112" x2="436" y2="344" stroke="#30363d"/><text class="s" x="32" y="165">SQL</text>
+<rect x="150" y="155" width="230" height="10" rx="5" fill="#262c36"/>
+<rect class="bar" x="150" y="155" width="207" height="10" rx="5" fill="#ff7a59" style="animation-delay:0.30s"/>
+<text class="v" x="394" y="164">90</text>
+<text class="s" x="32" y="203">Python</text>
+<rect x="150" y="193" width="230" height="10" rx="5" fill="#262c36"/>
+<rect class="bar" x="150" y="193" width="184" height="10" rx="5" fill="#ff7a59" style="animation-delay:0.42s"/>
+<text class="v" x="394" y="202">80</text>
+<text class="s" x="32" y="241">TypeScript</text>
+<rect x="150" y="231" width="230" height="10" rx="5" fill="#262c36"/>
+<rect class="bar" x="150" y="231" width="161" height="10" rx="5" fill="#ff7a59" style="animation-delay:0.54s"/>
+<text class="v" x="394" y="240">70</text>
+<text class="s" x="32" y="279">Motion/SVG</text>
+<rect x="150" y="269" width="230" height="10" rx="5" fill="#262c36"/>
+<rect class="bar" x="150" y="269" width="172.5" height="10" rx="5" fill="#ff7a59" style="animation-delay:0.66s"/>
+<text class="v" x="394" y="278">75</text>
+<text class="s" x="32" y="317">Game Dev</text>
+<rect x="150" y="307" width="230" height="10" rx="5" fill="#262c36"/>
+<rect class="bar" x="150" y="307" width="115" height="10" rx="5" fill="#ff7a59" style="animation-delay:0.78s"/>
+<text class="v" x="394" y="316">50</text>
+<text class="s" x="32" y="355">Chill</text>
+<rect x="150" y="345" width="230" height="10" rx="5" fill="#262c36"/>
+<rect class="bar" x="150" y="345" width="230" height="10" rx="5" fill="url(#chill)" style="animation-delay:0.90s"/>
+<text class="v" x="394" y="354">100</text>
+<g class="q" style="animation-delay:0.60s"><circle cx="468" cy="160" r="8" fill="#2bb3a3"/><path d="M464.5 160l2.5 2.5 4.5-5" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text class="s" x="488" y="165">Home PWA for two — live</text></g>
+<g class="q" style="animation-delay:0.75s"><circle cx="468" cy="198" r="8" fill="#2bb3a3"/><path d="M464.5 198l2.5 2.5 4.5-5" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text class="s" x="488" y="203">Code-rendered motion video studio</text></g>
+<g class="q" style="animation-delay:0.90s"><circle cx="468" cy="236" r="8" fill="#2bb3a3"/><path d="M464.5 236l2.5 2.5 4.5-5" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text class="s" x="488" y="241">3D packaging simulator (Three.js)</text></g>
+<g class="q" style="animation-delay:1.05s"><circle cx="468" cy="274" r="8" fill="#2bb3a3"/><path d="M464.5 274l2.5 2.5 4.5-5" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text class="s" x="488" y="279">Data engineering handbook (mock data)</text></g>
+<g class="q" style="animation-delay:1.20s"><circle cx="468" cy="312" r="7" fill="none" stroke="#ff7a59" stroke-width="2" stroke-dasharray="3 3"/><text class="s" x="488" y="317">Indie game studio — in progress</text></g>
+<line x1="32" y1="384" x2="808" y2="384" stroke="#30363d"/>
+<text class="l" x="32" y="414">ACHIEVEMENTS</text>
+<g class="b" style="animation-delay:1.20s"><rect x="32" y="428" width="170" height="32" rx="16" fill="#0d1117" stroke="#30363d"/>
+<circle cx="49" cy="444" r="4" fill="#ff7a59"/><text class="s" x="61" y="449" style="font-size:13px">Shipped a live PWA</text></g>
+<g class="b" style="animation-delay:1.35s"><rect x="214" y="428" width="184" height="32" rx="16" fill="#0d1117" stroke="#30363d"/>
+<circle cx="231" cy="444" r="4" fill="#ff7a59"/><text class="s" x="243" y="449" style="font-size:13px">Video from pure code</text></g>
+<g class="b" style="animation-delay:1.50s"><rect x="410" y="428" width="184" height="32" rx="16" fill="#0d1117" stroke="#30363d"/>
+<circle cx="427" cy="444" r="4" fill="#ff7a59"/><text class="s" x="439" y="449" style="font-size:13px">Zero-diff reconciler</text></g>
+<g class="b" style="animation-delay:1.65s"><rect x="606" y="428" width="135" height="32" rx="16" fill="#0d1117" stroke="#30363d"/>
+<circle cx="623" cy="444" r="4" fill="#ff7a59"/><text class="s" x="635" y="449" style="font-size:13px">Still relaxed</text></g>
+
+<rect x=".5" y=".5" width="839" height="485" rx="11.5" fill="none" stroke="#30363d"/>
+</svg>
